@@ -13,26 +13,6 @@
 劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
 劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
 劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111
-劲爆体育,http://home.wwang.pw:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://nctv.top/IDOEPpiryt/migu.php?id=jbty
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
-劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-劲爆体育,http://www.xzbn.site:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://146.56.165.66:7788/TVOD/5000000002000029972/bestzb/index.m3u8
-劲爆体育,http://36.105.100.208:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
-劲爆体育,http://goo.bkpcp.top/mg/jbty
-劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
-劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a483a&tk=822270345d4c
-劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0525&tk=23a9aca1f79f
-劲爆体育,http://119.32.12.32:2901/udp/224.1.100.129:11111
-劲爆体育,http://119.32.12.17:2901/udp/224.1.100.129:11111
-劲爆体育,http://www.zhch682022.cn:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2599&tk=e640d0a1bf70
-劲爆体育,http://3501776.xyz:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3011&tk=a0c4f6cfaba3
-劲爆体育,http://feiyang.ak47s.top:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 广东体育,#genre#
 广东体育, http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 广东体育, http://mzitv.cn:32/tsfile/live/1008_1.m3u8
