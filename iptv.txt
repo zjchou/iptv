@@ -8,43 +8,9 @@
 纬来体育频特,rtmp://f13h.mine.nu/sat/tv721
 [HD]纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 劲爆体育,#genre#
-劲爆体育, http://36.105.100.208:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育, http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0525&tk=23a9aca1f79f
-劲爆体育,http://27.25.159.105:18000/url/api.php?id=42719&tk=a08069f77d023a2f26
-劲爆体育,http://www.xzbn.site:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-劲爆体育,http://150.230.250.89:50001/TVOD/5000000002000029972/bestzb/index.m3u8
-劲爆体育,http://146.56.165.66:7788/TVOD/5000000002000029972/bestzb/index.m3u8
 劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
-劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
-劲爆体育,http://nctv.top/IDOEPpiryt/migu.php?id=jbty
-劲爆体育,http://tvbox6.icu/tv/migu.php?id=jbty
-劲爆体育,http://60.255.240.247:8090/live/lqhxjcHDH265_4000.m3u8
-劲爆体育,http://111.8.242.107:4085/tsfile/live/1035_1.m3u8
-劲爆体育,http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
-劲爆体育,http://www.xzbn.site:35455/itv/5000000002000029972.m3u8?cdn=bestzb
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
-劲爆体育,http://146.56.165.66:7788/TVOD/5000000002000029972/bestzb/index.m3u8
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
 劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv
-劲爆体育,http://36.105.100.208:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,http://124.231.212.230:9999/tsfile/live/1113_1.m3u8
-劲爆体育,http://[2409:8087:5e01:24::8]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
-劲爆体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
-劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008$订阅源
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty$订阅源
-劲爆体育,http://goo.bkpcp.top/mg/jbty$订阅源
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6$订阅源
-劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000$订阅源
-劲爆体育,http://nctv.top/IDOEPpiryt/migu.php?id=jbty
-劲爆体育,http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8$订阅源
-劲爆体育,http://120.198.101.106:9901/tsfile/live/1086_1.m3u8?key=txiptv$订阅源
-劲爆体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5a483a&tk=822270345d4c
-SiTV-劲爆体育,http://61.160.112.102:35455/itv/5000000002000029972.m3u8?cdn=bestzb
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
-上视劲爆体育,http://39.134.136.161:6610/000000001000/2000000002000000008/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000008
-上视劲爆体育 4M,http://39.134.136.161:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
 劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.129:11111
 劲爆体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.130:11111
 劲爆体育,http://home.wwang.pw:35455/itv/5000000002000029972.m3u8?cdn=bestzb
