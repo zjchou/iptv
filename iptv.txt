@@ -13,35 +13,16 @@
 纬来体育, https://cloud.yumixiu768.com:443/tmp/123.m3u8
 纬来体育, rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育, rtmp://220.130.201.73/sat/tv721
-纬来体育影视,tvbus://8VtZA3biMbkATD2jVZHinwDGUHwhFytLg77vvhQp7ns3nspbRf
-纬来体育影视,tvbus://86Pno2D4QsEXNndWtd3cUsT24Z4igCjQsLBrpo9GroM7uVvrMe
-纬来体育影视,tvbus://6ewxfyKnuHZmu5HKsVU7HuzDoYrZNwueotdNepPfNPW6TkyBUH3Z3VhKoLm3a
-纬来体育影视,tvbus://5U1TP6541mUPKamkRpPxtR59sCtYAdSbCt78Sz5Z7rRENUNBw7rnsXnYanPZP
-纬来体育影视,tvbus://5uETkB4JpJGXxq3JpP1f7hhRpTbv4qoUiZo7SRx3ugm2WYq95BKHPmh9KVtZU
-纬来体育影视,tvbus://8VtZA3biMbkATD2jVZHinwDGUHwhFytLg77vvhQp7ns3nspbRf
-纬来体育影视,tvbus://86Pno2D4QsEXNndWtd3cUsT24Z4igCjQsLBrpo9GroM7uVvrMe
-纬来体育影视,tvbus://6ewxfyKnuHZmu5HKsVU7HuzDoYrZNwueotdNepPfNPW6TkyBUH3Z3VhKoLm3a
-纬来体育影视,tvbus://5U1TP6541mUPKamkRpPxtR59sCtYAdSbCt78Sz5Z7rRENUNBw7rnsXnYanPZP
-纬来体育影视,tvbus://5uETkB4JpJGXxq3JpP1f7hhRpTbv4qoUiZo7SRx3ugm2WYq95BKHPmh9KVtZU
+纬来体育,http://live4play.uk/livehttpplay?channel_id=20120$LR•IPV4『线路6』
 纬来体育频高,http://live4play.uk/livehttpplay?channel_id=20120
-纬来体育频道,http://122.117.71.103:8562/纬来体育.m3u8
 纬来体育频限,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/videolandsport/playlist.m3u8
 纬来体育斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育频特,rtmp://f13h.mine.nu/sat/tv721
-纬来体育频陆,p3p://108.181.32.169:54829/64251ee9000a4e00ea5a428b26ea4156
 纬来体育,http://27.25.159.105:18000/url/api.php?id=39134&tk=a08069f77d023a2f26
 緯來體育,http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
-[BD]緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
 [HD]緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-[BD]纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-3.ctv
 [HD]纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
-[BD]緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
-[HD]緯來體育[geo-blocked],rtmp://f13h.mine.nu:1935/sat/tv721
-[BD]纬来体育[geo-blocked],https://stream1.freetv.fun/wei-lai-ti-yu-3.ctv
-[HD]纬来体育[geo-blocked],rtmp://9hv9.mine.nu/sat/tv721.flv
-[HD]纬来体育[geo-blocked],rtmp://f13h.mine.nu/sat/tv721
-[BD]緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-7.m3u8
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
@@ -75,7 +56,6 @@
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$LR•IPV4『线路3』
 纬来体育,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一纬来体育$LR•IPV4『线路4』
 纬来体育,http://zb.xmzb.xyz/123b.php?fid=⚽马上ieyppo一三立台湾$LR•IPV4『线路5』
-纬来体育,http://live4play.uk/livehttpplay?channel_id=20120$LR•IPV4『线路6』
 纬来体育,http://122.117.71.103:8562/纬来体育.m3u8$LR•IPV4『线路7』
 纬来体育,https://pixman.mytvsuper.com.mp/Smart.php?id=videolandsport$LR•IPV4『线路8』
 纬来体育,p3p://108.181.32.169:53515/64251ee9000a4e00ea5a428b26ea4156$LR•IPV4『线路9』
@@ -423,4 +403,3 @@ SiTV-劲爆体育,http://61.160.112.102:35455/itv/5000000002000029972.m3u8?cdn=b
 汕头综合,http://113.109.250.108:9999/udp/239.77.1.130:5146
 汕头综合,http://113.109.250.108:9999/udp/239.77.1.130:5146$LR•IPV4『线路1』
 汕头经济,http://113.109.250.108:9999/udp/239.77.1.131:5146
-汕头体育,http://113.109.250.108:9999/udp/239.77.1.132:5146
