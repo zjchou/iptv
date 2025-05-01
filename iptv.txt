@@ -1,9 +1,4 @@
 纬来体育,#genre#
-纬来体育, https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育, http://ku9.fr.to/smt.php?id=videolandsport
-纬来体育, http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70
-纬来体育, http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
-纬来体育, https://cloud.yumixiu768.com:443/tmp/123.m3u8
 纬来体育, rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育, rtmp://220.130.201.73/sat/tv721
 纬来体育, https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
@@ -11,7 +6,6 @@
 纬来体育, http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1978&tk=e640d0a1bf70
 纬来体育, http://dassby.qqff.top:99/live/辽宁体育/index.m3u8
 纬来体育, https://cloud.yumixiu768.com:443/tmp/123.m3u8
-纬来体育, rtmp://f13h.mine.nu:1935/sat/tv721
 纬来体育, rtmp://220.130.201.73/sat/tv721
 纬来体育,http://live4play.uk/livehttpplay?channel_id=20120$LR•IPV4『线路6』
 纬来体育频高,http://live4play.uk/livehttpplay?channel_id=20120
@@ -19,8 +13,6 @@
 纬来体育斯特,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育频特,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,http://27.25.159.105:18000/url/api.php?id=39134&tk=a08069f77d023a2f26
-緯來體育,http://aktv_stream.m16tv.cfd/stream/test/null/AKTV.m3u8
-[HD]緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
 [HD]纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 [HD]纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
@@ -40,12 +32,10 @@
 纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$LR•IPV4『线路10』
 纬来体育,rtmp://220.130.201.73/sat/tv721$LR•IPV4『线路11』
 纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8$LR•IPV4『线路12』
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$LR•IPV4『线路13』
 纬来体育,http://211.72.65.236:8585/.m3u8$LR•IPV4『线路14』
 纬来体育,http://125.227.210.55:8155/VideoInput/play.ts$LR•IPV4『线路15』
 纬来体育,https://stream1.freetv.fun/wei-lai-ti-yu-9.ctv$LR•IPV4『线路16』
 纬来体育,http://108.181.20.197/livehttpplay?channel_id=20120
-緯來體育,http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来体育,rtmp://220.130.201.73/sat/tv721
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
@@ -82,7 +72,6 @@
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$LR•IPV4『线路30』
 纬来体育,http://dassby.qqff.top:99/live/辽宁体育/index.m3u8$LR•IPV4『线路31』
 纬来体育,https://cloud.yumixiu768.com:443/tmp/123.m3u8$LR•IPV4『线路32』
-纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$LR•IPV4『线路33』
 纬来体育,rtmp://220.130.201.73/sat/tv721$LR•IPV4『线路34』
 纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130$LR•IPV4『线路35』
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8$LR•IPV4『线路36』
