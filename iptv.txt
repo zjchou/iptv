@@ -18,23 +18,14 @@
 广东体育, http://mzitv.cn:32/tsfile/live/1008_1.m3u8
 广东体育, http://120.77.205.62:8087/rtp/239.77.0.112:5146
 广东体育, http://183.11.239.36:808/hls/2/index.m3u8
-广东体育, http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
-广东体育, http://mzitv.cn:32/tsfile/live/1008_1.m3u8
-广东体育, http://120.77.205.62:8087/rtp/239.77.0.112:5146
-广东体育, http://183.11.239.36:808/hls/2/index.m3u8
 广东体育影视,tvbus://5fEb8G9vThfeE8b3EEibQ4uXXG8me95BAqbUaBvdeUQHEdvZBG5Pav3cXvtjo
 广东体育影视,tvbus://79LrASe1Hog39hGjie4gXrZdh9zSYuAsH8cmcWXUWygqgQPYXk
 广东体育影视,tvbus://7CcwvSPwtPvrByEuGdm8y1mYFpV5HFmzPAQPWFC7HwqQZhuLsU
 广东体育影视,tvbus://6EoYVe7aG4jnMXZXdhDa97mNnBeTPXuSQxUesJSUE1ZKMjE5MnkBZMPETaxqX
 广东体育影视,tvbus://5LXX8WcjwYMTYvEsw7wDNg9SezMaNhSmgKRpQYkvR5eJNTXxKcy66seeZQrEL
-广东体育影视,tvbus://5fEb8G9vThfeE8b3EEibQ4uXXG8me95BAqbUaBvdeUQHEdvZBG5Pav3cXvtjo
-广东体育影视,tvbus://79LrASe1Hog39hGjie4gXrZdh9zSYuAsH8cmcWXUWygqgQPYXk
-广东体育影视,tvbus://7CcwvSPwtPvrByEuGdm8y1mYFpV5HFmzPAQPWFC7HwqQZhuLsU
 广东体育影视,tvbus://6EoYVe7aG4jnMXZXdhDa97mNnBeTPXuSQxUesJSUE1ZKMjE5MnkBZMPETaxqX
-广东体育影视,tvbus://5LXX8WcjwYMTYvEsw7wDNg9SezMaNhSmgKRpQYkvR5eJNTXxKcy66seeZQrEL
 广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育频高,http://113.109.250.108:9999/udp/239.77.0.112:5146
-广东体育电信,http://113.109.250.108:9999/udp/239.77.0.112:5146
 广东体育梅州,http://1b6467f415.iok.la:9931/tsfile/live/1014_1.m3u8
 广东体育,http://27.25.159.105:18000/url/api.php?id=66367&tk=a08069f77d023a2f26
 广东体育,http://27.25.159.105:18000/url/api.php?id=88915&tk=a08069f77d023a2f26
@@ -49,8 +40,6 @@
 [BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8
 [BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.m3u8
-[BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-23.m3u8
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-37.ctv
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8
@@ -58,48 +47,18 @@
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-27.ctv
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.m3u8
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-39.ctv
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-31.ctv
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-33.m3u8
-[BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv
 [SD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-22.m3u8
-[SD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-38.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8
 [BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
-[BD]广东体育[geo-blocked],https://stream1.freetv.fun/yan-dong-ti-yu-17.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-2.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-37.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-4.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-27.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-28.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-13.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-3.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-39.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-31.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-33.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-35.ctv
-[SD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-22.m3u8
-[SD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-38.m3u8
 [BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-1.m3u8
-[BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
-广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
 广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8
-广东体育,http://113.109.250.108:9999/udp/239.77.0.112:5146
 广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8
@@ -115,7 +74,6 @@
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$LR•IPV4『线路4』
 广东体育,https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=825716213175186$LR•IPV4『线路5』
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8$LR•IPV4『线路6』
-广东体育,http://113.109.250.108:9999/udp/239.77.0.112:5146$LR•IPV4『线路7』
 广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0$LR•IPV4『线路8』
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$LR•IPV4『线路9』
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8$LR•IPV4『线路10』
