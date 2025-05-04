@@ -23,29 +23,12 @@
 [BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-30.ctv
 [BD]广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-8.ctv
 广东体育, http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
-广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://113.101.119.50:808/hls/108/index.m3u8
 广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv$LR•IPV4『线路11』
 广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv$LR•IPV4『线路13』
-广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路14』
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8$LR•IPV4『线路15』
-广东体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d5dbbf&tk=822270345d4c$LR•IPV4『线路17』
-广东体育,https://ali.hlspull.yximgs.com/live/guangdongtiyuguangdongtiyuszds98hsrt6u57eujseth5i7463atgestjhsrjsrj------------------------------------------------------.flv$LR•IPV4『线路18』
-广东体育,http://218.13.14.6:60050/tsfile/live/1021_1.m3u8$LR•IPV4『线路19』
 广东体育,http://14.212.185.146:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路20』
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$LR•IPV4『线路30』
 广东体育,http://120.238.94.82:9901/tsfile/live/1012_1.m3u8$LR•IPV4『线路31』
-广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8$LR•IPV4『线路32』
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8$LR•IPV4『线路33』
-广东体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2030&tk=a0c4f6cfaba3$LR•IPV4『线路34』
-广东体育,http://120.198.95.220:9901/tsfile/live/1010_1.m3u8?key=txiptv$LR•IPV4『线路35』
-广东体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=963e34&tk=822270345d4c$LR•IPV4『线路36』
-广东体育,http://api3.52tb.xyz/info?id=413&token=20221127jxwhhemby$LR•IPV4『线路37』
-广东体育,http://120.77.205.62:8087/rtp/239.77.0.112:5146$LR•IPV4『线路38』
-广东体育,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=239af4&tk=822270345d4c$LR•IPV4『线路39』
-广东体育,https://ali.hlspull.yximgs.com/live/guangdongtiyuguangdongtiyuszds98hsrt6u57eujseth5i7463atgestjhsrjsrj------------------------------------------------------.flv$LR•IPV4『线路40』
 广东体育,http://php.jdshipin.com/PLTV/iptv.php?id=gdty$LR•IPV4『线路41』
 广东体育,http://119.32.12.32:2901/udp/224.1.100.34:11111$LR•IPV4『线路42』
 广东体育,http://api2.52tb.xyz/info?id=413&token=20230218qkyjia$LR•IPV4『线路43』
@@ -81,7 +64,6 @@
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-14.ctv$LR•IPV4『线路23』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-16.m3u8$LR•IPV4『线路24』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-17.ctv$LR•IPV4『线路25』
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-18.ctv$LR•IPV4『线路26』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-20.m3u8$LR•IPV4『线路27』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-21.ctv$LR•IPV4『线路28』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-22.ctv$LR•IPV4『线路29』
@@ -92,7 +74,6 @@
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-34.ctv$LR•IPV4『线路34』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-36.m3u8$LR•IPV4『线路35』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-38.ctv$LR•IPV4『线路36』
-广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-39.ctv$LR•IPV4『线路37』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-7.ctv$LR•IPV4『线路38』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-15.ctv$LR•IPV4『线路39』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-19.m3u8$LR•IPV4『线路40』
@@ -106,7 +87,6 @@
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8$LR•IPV4『线路48』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-gao-qing-2.m3u8$LR•IPV4『线路49』
 广东体育,https://stream1.freetv.fun/yan-dong-ti-yu-24.ctv$LR•IPV4『线路50』
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8$LR•IPV4『线路1』
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$LR•IPV4『线路2』
 广东体育,http://qjrhc.jydjd.top:2911/udp/224.1.100.33:11111$LR•IPV4『线路3』
